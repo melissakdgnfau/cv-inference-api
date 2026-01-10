@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+      //"${workspaceFolder}/YOLOX"
+      "/Users/melisakdogan/cv-inference-api/YOLOX"
+    ]
+}
+  
