@@ -22,7 +22,7 @@ Client → FastAPI → Preprocessing → YOLOX Inference → Postprocessing → 
 
 ### 1.Clone the repository
 ```bash
-git clone https://github.com/<your-username>/cv-inference-api.git
+git clone https://github.com/melissakdgnfau/cv-inference-api.git
 cd cv-inference-api
 ```
 ### 2.Add model weights
